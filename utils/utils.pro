@@ -8,4 +8,6 @@ SOURCES += \
 
 HEADERS += \
     vector.h \
-    iter.h
+    iter.h \
+    types.h \
+    config.h
